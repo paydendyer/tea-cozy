@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+.header {
+  color: grey;
+  max-height: 69px;
+  border-bottom: 1px solid seashell;
+}
+.logo {
+  font-size: 50px;
+  padding: 10px;
+}
+ul {
+  list-style: none;
+  float: right;
+}
+li {
+  text-decoration: underline;
+  display: inline;
+}
+.image-container {
+  position: relative;
+  text-align: center;
+  height: 700px;
+  width: 1200px;
+}
+.image-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: black;
+  color: grey;
+
+}
