@@ -12,22 +12,31 @@ body {
   color:seashell;
   opacity:0.9;
 }
+.cozy {
+  display: flex;
+}
 header {
+  width: 100%;
+  position: fixed;
   color: grey;
   max-height: 69px;
   border-bottom: 1px solid seashell;
+  background-color: black;
 }
 .logo {
   height: 50px;
-  padding: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
 }
 ul {
   list-style: none;
+  text-align: right;
   float: right;
 }
 li {
   text-decoration: underline;
-  display: inline;
+  display: inline-block;
+  padding: 20px 10px;
 }
 .mission {
   display: flex;
