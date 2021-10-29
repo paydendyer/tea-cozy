@@ -2,15 +2,14 @@
   margin: 0;
   padding: 0;
 }
-html{
-  font-family: "Benne","Helvetica", Arial, sans-serif;
-  font-size: 22px;
-  line-height:normal;
-}
 body {
   background-color: black;
   color:seashell;
   opacity:0.9;
+  font-family: Helvetica;
+  font-size: 22px;
+  line-height: normal;
+  display: block;
 }
 .cozy {
   display: block;
