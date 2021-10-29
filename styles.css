@@ -8,7 +8,7 @@ body {
   opacity:0.9;
   font-family: Helvetica;
   font-size: 22px;
-  line-height: normal;
+  line-height: 40px;
   display: block;
 }
 .cozy {
@@ -18,7 +18,7 @@ header {
   width: 100%;
   position: fixed;
   color: grey;
-  max-height: 69px;
+  height: 69px;
   border-bottom: 1px solid seashell;
   background-color: black;
 }
@@ -45,6 +45,7 @@ li {
   background-repeat: no-repeat;
   flex-direction: column;
   justify-content: center;
+  padding-top: 70px;
 
 }
 .image-text {
