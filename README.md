@@ -1,5 +1,6 @@
-# tea-cozy
+# Tea Cozy
 By: Payden Dyer
+
 This is a website for a Tea Shop, coded from a design spec using CSS Flexbox.
 
 ## Technology Used:
