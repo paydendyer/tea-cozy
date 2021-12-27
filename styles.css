@@ -9,6 +9,8 @@ body {
   font-family: Helvetica;
   font-size: 22px;
   display: block;
+  margin: 0;
+  padding: 0;
 }
 .cozy {
   display: block;
@@ -102,7 +104,7 @@ div.teas {
   display:flex;
   margin: auto;
   max-width: 1200px;
-  height:550px;
+  height:500px;
   background-image: url('./images/img-locations-background.jpg');
   align-items: center;
   justify-content: center;
@@ -116,7 +118,7 @@ div.teas {
 }
 
 .location p{
-  line-height:55px;
+  line-height:70px;
 }
 
 .location h3{
@@ -146,4 +148,7 @@ a {
 }
 .left{
   float: left;
+}
+.opacity {
+  opacity: 1;
 }
