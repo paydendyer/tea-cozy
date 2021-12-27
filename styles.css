@@ -58,3 +58,92 @@ h2, h4 {
   margin: 0;
   padding: 10px;
 }
+.teas-header {
+  text-align: center;
+}
+div.teas {
+  width: 1000px;
+  padding-top: 50px;
+}
+.tea {
+  text-align: center;
+  margin: 15px;
+}
+.tea img {
+  padding-bottom: 10px;
+  width: 300px;
+  height: 200px;
+}
+#teas-container {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.container{
+  display:flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.teas{
+  margin: auto;
+  max-width: 1000px;
+  padding-top: 50px;
+}
+.tea h4{
+  margin: 0;
+  padding: 0;
+}
+.locations h2 {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.locations{
+  display:flex;
+  margin: auto;
+  max-width: 1200px;
+  height:550px;
+  background-image: url('./images/img-locations-background.jpg');
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.location {
+  width: 300px;
+  margin: 15px 20px;
+  text-align:center;
+  background-color: black;
+}
+
+.location p{
+  line-height:55px;
+}
+
+.location h3{
+  margin: 0;
+  padding: 25px;
+}
+.header{
+  display: block;
+  width:100%;
+  margin: 0;
+  padding: 0;
+}
+.header h2{
+  text-align:center;
+  margin: 0;
+  padding: 0;
+}
+.contact {
+  text-align: center;
+  height: 200px;
+}
+.footer {
+  padding-left: 20px;
+}
+a {
+  color: inherit;
+}
+.left{
+  float: left;
+}
