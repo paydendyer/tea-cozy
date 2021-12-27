@@ -16,7 +16,7 @@ This is a website for a local tea shop to display their featured teas and locati
 ## Setup Instructions:
 After cloning the repository, open index.html in your browser
 
-##Known Bugs:
+## Known Bugs:
 None
 
 ## License:
